@@ -1,0 +1,7 @@
+Flask==3.0.3   
+requests==2.32.3
+flask[async]
+python-docx==1.1.2
+numpy==1.26.3
+ultralytics
+streamlit
